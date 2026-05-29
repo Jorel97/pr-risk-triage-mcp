@@ -1,0 +1,17 @@
+{
+  "name": "pr-risk-triage-mcp",
+  "version": "0.1.0",
+  "description": "Dependency-free stdio MCP server that returns pull-request risk triage checklists.",
+  "type": "module",
+  "bin": {
+    "pr-risk-triage-mcp": "./server.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "code-review",
+    "pull-request",
+    "codex"
+  ],
+  "license": "MIT"
+}
+
